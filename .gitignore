@@ -6,3 +6,5 @@ temp/
 
 # Ignore a specific file
 secret.txt
+ignore.txt
+ignore1.txt
